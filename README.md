@@ -22,6 +22,6 @@ Esta é uma lista com sugestões de programas para iniciantes em programação. 
 
  - [ ] ExerciciosClasses
 
- - [ ]ListaDeExerciciosProjetos
+ - [ ] ListaDeExerciciosProjetos
 
 
